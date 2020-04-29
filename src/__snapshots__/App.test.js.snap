@@ -1,0 +1,83 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`IconLoading Component IconLoadingComp renders 1`] = `
+<div
+  className="sk-chase"
+>
+  <div
+    className="sk-chase-dot"
+  />
+  <div
+    className="sk-chase-dot"
+  />
+  <div
+    className="sk-chase-dot"
+  />
+  <div
+    className="sk-chase-dot"
+  />
+  <div
+    className="sk-chase-dot"
+  />
+  <div
+    className="sk-chase-dot"
+  />
+</div>
+`;
+
+exports[`ListForeCastComp Component ListForeCastComp renders 1`] = `
+<div
+  className="wrap-forecast"
+>
+  <h1
+    className="title-city"
+  >
+    Ho Chi Minh City - Vietnam
+  </h1>
+  <ul
+    className="list-forecast"
+  >
+    <li
+      className="item"
+    >
+      <div
+        className="content-item"
+      >
+        <dd
+          className="weatherstate"
+          data-original-title=""
+          title=""
+        >
+          <div
+            className="state-icon-sml state-hc"
+          />
+          <span
+            className="text-weather"
+          >
+            Heavy Cloud
+          </span>
+        </dd>
+        <div
+          className="day"
+        >
+          Wednesday
+        </div>
+        <div
+          className="min"
+        >
+          Min : 
+          26
+          °C
+        </div>
+        <div
+          className="max"
+        >
+          Max : 
+          36
+          °C
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
+`;
